@@ -1,2 +1,2 @@
 # FXtry
-The main is RepertoireGraphique
+Main : RepertoireGraphique
